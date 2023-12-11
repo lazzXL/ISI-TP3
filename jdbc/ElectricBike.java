@@ -19,7 +19,6 @@ public class ElectricBike extends Bike {
     // Constructor
     public ElectricBike(){
         super();
-        autonomia = 0;
         velocidadeMaxima = 0;
     }
 
